@@ -18,3 +18,6 @@ Use: `ansible-playbook -i inventory zabbix-agent/zabbix.yml --ask-pass`
 
 
 Zabbix-agent version 3.4.6: [https://www.zabbix.com/downloads/3.4.6/zabbix_agents_3.4.6.win.zip](https://www.zabbix.com/downloads/3.4.6/zabbix_agents_3.4.6.win.zip)
+
+
+ZABBIX share: [https://share.zabbix.com/installers/ansible-playbook-for-install-agent-on-the-windows](https://share.zabbix.com/installers/ansible-playbook-for-install-agent-on-the-windows)

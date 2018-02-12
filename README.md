@@ -1,4 +1,4 @@
-### Ansible playbooks for setup Zabbix-Agent on Windows
+### Ansible playbook for setup Zabbix-Agent on Windows
 
 
 ##### # Install WinRM module for ansible:

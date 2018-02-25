@@ -1,4 +1,4 @@
-### Ansible playbook for install Zabbix-Agent on the Windows
+# Ansible role for install Zabbix-Agent on the Windows
 
 
 ##### # Install WinRM module for ansible:
@@ -11,10 +11,8 @@
 ```
 
 
-##### # How to use:
-Change variable Zabbix-Server IP in the playbook: `zabbix_ip_server`
 
-Use: `ansible-playbook -i inventory zabbix-agent/zabbix.yml --ask-pass`
+Change variable Zabbix-Server IP in the vars/main.yml: `zabbix_ip_server`
 
 
 Zabbix-agent version 3.4.6: [https://www.zabbix.com/downloads/3.4.6/zabbix_agents_3.4.6.win.zip](https://www.zabbix.com/downloads/3.4.6/zabbix_agents_3.4.6.win.zip)
